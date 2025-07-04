@@ -1,4 +1,4 @@
-# BookMySeat
+# BookMySeat (Made in 2020, Grade 12)
 A sample ticket booking application for events and transport 
 - Uses tkinter for gui, mysql for database operations and file handling for tickets.
 - Has user management functions including registration, login, password recovery
