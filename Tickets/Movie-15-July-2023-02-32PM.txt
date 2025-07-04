@@ -1,0 +1,11 @@
+Dear !
+Thank you for using BookMySeat's booking facility!
+Movie Name: Mission Impossible: Dead Reckoning - Part One
+Theatre: Escape Cinemas
+Date: 15-08_2023
+No of Seats booked: 43
+View Mode: 2D
+Language: Kannada
+No.of Popcorn ordered: 20	No.of Cokes ordered: 20
+No.of Donuts ordered: 20	No.of Nachos ordered: 20
+Amount to be paid: 24900

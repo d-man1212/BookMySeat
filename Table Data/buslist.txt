@@ -1,0 +1,4 @@
+Seater AC
+Sleeper AC
+Seater Non-AC
+Sleeper Non-AC

@@ -1,0 +1,4 @@
+Pickup Location: Poonamallee
+Drop Location: Porur Junction
+Vehicle arriving soon: Auto
+Amount to be paid: 50
